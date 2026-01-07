@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "JS Activator",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+     "default_icon": {
+      "16": "bloofunlogo.png",
+      "48": "bloofunlogo.png",
+      "128": "bloofunlogo.png"
+    }
+  },
+  "permissions": ["scripting", "activeTab"]
+}
